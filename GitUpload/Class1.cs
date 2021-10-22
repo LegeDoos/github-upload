@@ -8,6 +8,6 @@ namespace GitUpload
 {
     class Class1
     {
-        // aanpassing
+        // aanpassing 2
     }
 }
